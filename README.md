@@ -31,7 +31,7 @@ Since the dataset is small, we used Cross-Validation to ensure the results are r
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mehmetkosee/zoo-animal-classification.git](https://github.com/mehmetkosee/zoo-animal-classification.git)
+    git clone [https://github.com/mehmetkosee/Zoo-Animal-Classification-with-ML-Models.git](https://github.com/mehmetkosee/Zoo-Animal-Classification-with-ML-Models.git)
     ```
 2.  **Install dependencies:**
     ```bash
